@@ -1,0 +1,17 @@
+{
+  "name": "ckallcloud/easydesc",
+  "autoload": {
+    "psr-4": {
+      "CkallCloud\\": "src"
+    }
+  },
+  "require": {
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "CkallCloud\\ServiceProvider"
+      ]
+    }
+  }
+}
