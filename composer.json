@@ -1,5 +1,10 @@
 {
   "name": "ckallcloud/easydesc",
+  "license": "MIT",
+  "keywords": [
+    "php",
+    "desc"
+  ],
   "autoload": {
     "psr-4": {
       "CkallCloud\\": "src"
