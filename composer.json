@@ -15,7 +15,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "CkallCloud\\ServiceProvider"
+        "CkallCloud\\DescServiceProvider"
       ]
     }
   }
