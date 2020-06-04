@@ -7,7 +7,8 @@
   ],
   "autoload": {
     "psr-4": {
-      "CkallCloud\\": "src"
+      "CkallCloud\\": "src",
+      "Ckall\\CkallCloud\\": "ckall"
     }
   },
   "require": {
@@ -15,7 +16,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "CkallCloud\\DescServiceProvider"
+        "Ckall\\CkallCloud\\DescServiceProvider"
       ]
     }
   }
