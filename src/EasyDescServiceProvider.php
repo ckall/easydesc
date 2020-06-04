@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Ckall\CkallCloud;
+namespace CkallCloud;
 use \Illuminate\Support\ServiceProvider;
 
 class EasyDescServiceProvider extends ServiceProvider
